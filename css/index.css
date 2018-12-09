@@ -1,0 +1,33 @@
+* { text-align: center; font-family: "Titillium Web", "Barlow Condensed", "Open Sans Condensed" !important; letter-spacing: .1em; }
+
+body { width: 100%; color: #2D2D2D; background: #2D2D2D !important; overflow-x: hidden; }
+
+#header { position: absolute; top: 0; left: 0; background-image: url("../imgs/banner.png"); background-attachment: fixed; background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; }
+
+#gradient { background: rgba(45, 45, 45, 0.65); padding: 0; width: 100%; height: 100vh }
+
+h1, h3 { color: #DCDCDC; letter-spacing: .3em; }
+
+h1 { font-size: 4em; }
+
+h3 { font-size: 2em; }
+
+#ftf-logo { width: auto; height: 40vh; margin-top: 8vh; padding: 1em 1em; }
+
+.quick-links { width: auto; height: 75px; padding: 0;}
+
+.styless-link { border: 0; padding: 0; margin: 0 2em; }
+
+.styless-link:hover { background: rgba(0, 0, 0, 0); padding: 0; }
+
+#main-content { margin: 105vh auto 0 auto; width: 80%; background: rgba(220, 220, 220, 0.9); padding: 1.5em; }
+
+.content { padding-top: 2em; padding-bottom: .8em; border-top: 1px solid rgba(45, 45, 45, 0.9); }
+
+#schedule a { position: relative; bottom: 0; display: block; margin: 2em auto; width: 15em; }
+
+span { font-weight: bold; }
+
+a { padding: .6em; text-decoration: none !important; background: rgba(0, 0, 0, 0); color: #2d2d2d !important; border: 1px solid #2d2d2d; transition: .1s; overflow-x: hidden; }
+
+a:hover { padding: .8em; background: rgba(45, 45, 45, 0.8); color: gainsboro !important; border: none; }
