@@ -1,0 +1,11 @@
+h1 { font-size: 2em; }
+
+h3 { font-size: 1em; }
+
+#links-bar { display: inline; margin-top: 1.5em; }
+
+.quick-links { height: 50px; }
+
+#main-content { position: relative; left: -8px; width: 100%; margin: 100vh auto 0 auto; }
+
+.content { position: relative; left: -8px; width: 80%; }
